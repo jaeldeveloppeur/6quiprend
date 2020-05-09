@@ -47,6 +47,7 @@ function pushArray(){
     tranche10();
     tranche11();
     carteRestante();
+    document.getElementById("cartePlay").value=null;
 }
 
 function tranche1(){
